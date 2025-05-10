@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nur Shokeb - Landscaping Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f8f6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #006633;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #006633;
+    }
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #e2f0e8;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nur Shokeb</h1>
+    <p>Landscaping Specialist</p>
+  </header>  <section>
+    <h2>Contact Information</h2>
+    <p>Phone: 0821-3355-1167<br>Email: nurshokebb@gmail.com</p><h2>Profile Summary</h2>
+<p>I have over 1 year of experience in commercial landscaping. I specialize in landscape planning, plant selection, hardscape installation, and routine garden maintenance. I am passionate about creating outdoor environments that are both beautiful and functional.</p>
+
+<h2>Skills</h2>
+<ul>
+  <li>Landscape Planning</li>
+  <li>Plant Selection</li>
+  <li>Hardscape Installation (stone, paving, pots, etc.)</li>
+  <li>Irrigation System Installation</li>
+  <li>Routine Garden Maintenance</li>
+</ul>
+
+<h2>Work Experience</h2>
+<p><strong>Landscaping Staff – RSUD dr. R. Soedarsono (2024–2025)</strong><br>
+- Participated in development and maintenance of hospital landscape<br>
+- Installed ornamental plants and irrigation systems<br>
+- Maintained garden areas for aesthetics and comfort</p>
+
+  </section>  <footer>
+    &copy; 2025 Nur Shokeb | Landscaping Portfolio
+  </footer>
+</body>
+</html>
